@@ -1,2 +1,3 @@
 class Person
-  def name=
+  def name=(Persons_name)
+    @name = 
