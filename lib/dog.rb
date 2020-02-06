@@ -1,4 +1,5 @@
 
 class Dog 
-  def name=(fido)
+  def name=(dogs_name)
+    
     
